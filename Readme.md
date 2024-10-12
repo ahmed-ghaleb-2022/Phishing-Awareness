@@ -9,13 +9,6 @@ the executable file,here is the link :
 https://drive.google.com/file/d/1MdfkUCF_WAUps8_6S5hAN34xnrPhgt0a/view?usp=sharing
 
 
-leaderboard code github:
-https://github.com/ahmed-ghaleb-2022/phishingGameLeaderboard
-
-dialogue generation code github:
-https://github.com/ahmed-ghaleb-2022/DatabaseforPhishingGame
-
-
 I also thank  Dr. Pascal Gadient's and Prof. Mohammad Ghafari very much   for the research paper "Phish What You Wish" and all who help in that:
 https://ieeexplore.ieee.org/document/9724821
 
